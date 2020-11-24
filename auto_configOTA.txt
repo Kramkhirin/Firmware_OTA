@@ -1,1 +1,1 @@
-{"esp32httpsOTA":{"type":"esp32httpsOTA","fwver":"20201124_213423","signature":"40622e6d457461615f68747470734f54413d31","fwurl":"https://raw.githubusercontent.com/Kramkhirin/Firmware_OTA/main/uSoilAX/firmware_20201124_213423.bin","description":"edit auto scripts"}}
+{"esp32httpsOTA":{"type":"esp32httpsOTA","fwver":"20201124_214007","signature":"40622e6d457461615f68747470734f54413d31","fwurl":"https://raw.githubusercontent.com/Kramkhirin/Firmware_OTA/main/uSoilAX/firmware_20201124_214007.bin","description":"edit auto scripts"}}
